@@ -1,0 +1,10 @@
+Cantidad_Camiones,Capacidad_Camion,Nodo,Identificador,X_Coordinadas,Y_Coordenadas,Demanda
+10,4,1,Planta,70,87,0
+,,2,VDC1,70,28,2
+,,3,VDC2,18,93,1
+,,4,VDC3,3,19,1
+,,5,VDC4,70,97,2
+,,6,VDC5,1,68,1
+,,7,VDC6,60,87,2
+,,8,VDC7,46,31,2
+,,9,VDC8,81,17,2
