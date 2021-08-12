@@ -32,5 +32,5 @@ with open("train.csv",newline="") as Archivo:
         print(distancia1(df.LATITUD_ORIGEN[i],df.LATITUD_DESTINO[i],df.LONGITUD_ORIGEN[i],df.LONGITUD_DESTINO[i]),end=" ")
         print(df.DISTANCIA[i])
     
-
+Prueba 26
 
